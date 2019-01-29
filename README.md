@@ -1,0 +1,2 @@
+# informatica
+Repository inf scuola
